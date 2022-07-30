@@ -1,0 +1,20 @@
+{
+  "name": "alpine-app",
+  "version": "1.0.0",
+  "description": "Create a simple alpine dropdown menu",
+  "main": "src/assets/js/app.js",
+  "scripts": {
+    "serve": "parcel src/index.html"
+  },
+  "author": "Guillaume VARIN",
+  "license": "ISC",
+  "dependencies": {
+    "alpinejs": "^3.10.2"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.5.0",
+    "postcss": "^8.4.12",
+    "sass": "^1.51.0",
+    "tailwindcss": "^3.0.24"
+  }
+}

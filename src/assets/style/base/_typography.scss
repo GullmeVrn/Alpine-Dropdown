@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Agrandir';
+  src: local('Agrandir Regular'), local('Agrandir-Regular'),
+    url('../fonts/Agrandir-Regular.woff2') format('woff2'),
+    url('../fonts/Agrandir-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+html,
+body {
+  font-family: 'Agrandir', sans-serif;
+  font-size: 1em;
+  line-height: 1.2;
+}
+
+p {
+  line-height: 1.5;
+}

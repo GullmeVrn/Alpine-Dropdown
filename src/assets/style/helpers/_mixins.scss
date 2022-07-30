@@ -1,0 +1,7 @@
+@mixin flex-box {
+  @apply flex items-center justify-center;
+}
+
+@mixin grid-box {
+  @apply grid place-items-center;
+}
