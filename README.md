@@ -1,4 +1,4 @@
-[![github-thumb.png](https://i.imgur.com/qLznKO5.png)]
+[github-thumb.png](https://i.imgur.com/qLznKO5.png)
 
 ## Getting Started
 
