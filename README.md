@@ -1,4 +1,4 @@
-[![github-thumb.png](https://ibb.co/tMGMN7b)]
+[![github-thumb.png](https://i.imgur.com/qLznKO5.png)]
 
 ## Getting Started
 
