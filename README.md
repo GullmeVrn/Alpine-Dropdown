@@ -1,3 +1,5 @@
+[![github-thumb.png](https://ibb.co/tMGMN7b)]
+
 ## Getting Started
 
 **1. Clone this repository, go to the root directory and install packages**
